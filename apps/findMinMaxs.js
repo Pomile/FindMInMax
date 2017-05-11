@@ -17,7 +17,7 @@ module.exports ={
     var array_of_minimum_and_maximum = [];
 
     
-    
+    // loop over the Array
     var counter;
     for(counter=0; counter<=list_container.length; counter++) {
       if(list_container[counter]>=largest_number) {
